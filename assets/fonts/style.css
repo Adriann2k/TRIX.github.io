@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'AlegreyaSansSC-Black';
+   font-display: swap;
+   src: url('AlegreyaSansSC-Black/font.ttf');
+}
+@font-face {
+   font-family: 'Revamped-X3q1a';
+   font-display: swap;
+   src: url('Revamped-X3q1a/font.ttf');
+}
+@font-face {
+   font-family: 'AlegreyaSansSC-Medium';
+   font-display: swap;
+   src: url('AlegreyaSansSC-Medium/font.ttf');
+}
